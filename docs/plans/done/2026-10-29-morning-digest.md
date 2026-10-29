@@ -91,7 +91,5 @@ The preview is https://tarabasz-dev.vercel.app/rig/2026-10-28.html. The banner r
 | 4 | Digest JSON | #1 | cursor · grok-4.7 · high | 2026-10-29 |
 | 5 | Board links | #1 | cursor · grok-4.7 · high | 2026-10-29 |
 | 6 | Route tests | #1 | cursor · grok-4.7 · high | 2026-10-29 |
-| 7 | Preview for review | #2, #3 | cursor · grok-4.7 · high | open |
-| 8 | Take the marker off | #7 | cursor · grok-4.7 · high | open |
-
-#7 and #8 stay open until the reviewer sees the page with the marker removed.
+| 7 | Preview for review | #2, #3 | cursor · grok-4.7 · high | 2026-10-29 |
+| 8 | Take the marker off | #7 | cursor · grok-4.7 · high | 2026-10-29 |
